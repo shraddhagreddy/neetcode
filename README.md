@@ -22,13 +22,6 @@ Each problem resides in its own module or directory, grouped by topic (e.g., `ar
 
 neetcode/
 └── arrays/
-├── solution1.py
-├── solution2.py
-└── ...
-
-- **arrays/**: Python solutions for array-based problems (LeetCode, NeetCode lists, etc.)
-
-*(Add other directories as you expand into strings, dynamic programming, graphs, etc.)*
 
 ---
 
