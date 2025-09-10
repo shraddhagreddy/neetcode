@@ -34,6 +34,9 @@ nums is sorted in non-decreasing order."""
 
 
 
+from typing import List
+
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         l=1
