@@ -14,7 +14,7 @@ A personal journey of tackling coding challenges from **NeetCode** and honing pr
 ##  Repository Overview
 
 This repository is a hub for all coding problems solved using NeetCode’s curated list.  
-Each problem resides in its own module or directory, grouped by topic (e.g., `arrays`).
+Each problem resides in its own module or directory, grouped by topics.
 
 ---
 
