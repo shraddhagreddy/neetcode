@@ -1,4 +1,4 @@
-# NeetCode Learning Journey
+# NeetCode Learning Journey 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/shraddhagreddy/neetcode)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/shraddhagreddy/neetcode)
 ![Top Language](https://img.shields.io/github/languages/top/shraddhagreddy/neetcode)
