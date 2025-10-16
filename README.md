@@ -21,7 +21,7 @@ Each problem resides in its own module or directory, grouped by topics.
 ##  Directory Structure
 
 neetcode/
-└── arrays/
+└── arrays
 
 ---
 
